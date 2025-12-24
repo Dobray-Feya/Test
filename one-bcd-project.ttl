@@ -4,7 +4,6 @@
 @prefix brick: <https://brickschema.org/schema/Brick#>.
 @prefix rec: <https://w3id.org/rec#>.
 @prefix bdh-proekt3: <http://bimdance.io/e8748681-13fe-4214-bf4f-10b2e8902fe7#>.
-
 <bdh-proekt3:00000163-0000-0000-0000-000000000000> a rec:Level;
                                                    rdfs:label "Уровень 1".
 <bdh-proekt3:00000a2f-0000-0000-0000-000000000000> a rec:Level;
@@ -91,3 +90,4 @@
                                                                <bdh-proekt3:00001719-0000-0000-0000-000000000000>,
                                                                <bdh-proekt3:00000163-0000-0000-0000-000000000000>,
                                                                <bdh-proekt3:00000a2f-0000-0000-0000-000000000000>.
+
