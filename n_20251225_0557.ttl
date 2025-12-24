@@ -4,4 +4,3 @@
 @prefix brick: <https://brickschema.org/schema/Brick#>.
 @prefix rec: <https://w3id.org/rec#>.
 @prefix bdh-n: <http://bimdance.io/b50cfaef-5410-44cd-8ca5-e778097e7d6f#>.
-
