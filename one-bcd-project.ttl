@@ -1,6 +1,0 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
-@prefix brick: <https://brickschema.org/schema/Brick#>.
-@prefix rec: <https://w3id.org/rec#>.
-@prefix bdh-proekt3: <http://bimdance.io/e8748681-13fe-4214-bf4f-10b2e8902fe7#>.
